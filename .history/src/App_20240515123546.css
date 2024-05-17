@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Cela centre verticalement le contenu sur toute la hauteur de la fenêtre */
+  }
+  
+  .title {
+    text-align: center; 
+  }
+  
